@@ -1,2 +1,10 @@
 c:\users\koehorst\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
 F:\GitTest\Test\Test\bin\Debug\Test.exe.config
+F:\GitTest\Test\Test\bin\Debug\Test.exe
+F:\GitTest\Test\Test\bin\Debug\Test.pdb
+F:\GitTest\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\GitTest\Test\Test\obj\Debug\Test.Form1.resources
+F:\GitTest\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\GitTest\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\GitTest\Test\Test\obj\Debug\Test.exe
+F:\GitTest\Test\Test\obj\Debug\Test.pdb
