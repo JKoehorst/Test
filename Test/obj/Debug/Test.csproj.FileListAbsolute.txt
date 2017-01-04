@@ -1,1 +1,2 @@
 c:\users\koehorst\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+F:\GitTest\Test\Test\bin\Debug\Test.exe.config
